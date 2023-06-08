@@ -9,4 +9,4 @@
 
 
 
-- Selecionar o ficheiro bipede.aia
+- Selecionar o ficheiro Bipede.aia
