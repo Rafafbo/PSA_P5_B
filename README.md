@@ -6,8 +6,10 @@
 
 
 
+
+
 <p align="center">
-  ![bipede](https://github.com/Rafafbo/PSA_P5_B/assets/114348682/dd0636f8-8a02-481d-bff3-7c282e94f8f5)
+  <img width="200" src="https://github.com/Rafafbo/PSA_P5_B/assets/114348682/dd0636f8-8a02-481d-bff3-7c282e94f8f5" alt="Material Bread logo">
 </p>
 
 
